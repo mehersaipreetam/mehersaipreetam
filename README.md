@@ -13,7 +13,7 @@ I'm a passionate Data Scientist with expertise in various AI domains. I thrive o
 ## 📬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/mehersaipreetam/)
-- [Email](mehersaipreetam@gmail.com)
+- ✉️ **Email:** mehersaipreetam@gmail.com
 
 
 
