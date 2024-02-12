@@ -1,4 +1,23 @@
-### Hi there 👋
+### Hi there, I'm Meher Sai Preetam Madiraju 👋
+
+I'm a passionate Data Scientist with expertise in various AI domains. I thrive on turning complex data into actionable insights and impactful solutions.
+
+## 🔧 Technologies & Tools
+
+- **Languages:** Python
+- **Frameworks:** FastAPI, Flask
+- **Data Science:** NumPy, Pandas, SciPy, TensorFlow, PyTorch, Scikit-Learn
+- **Big Data:** PySpark, Dask
+- **Version Control:** Git
+
+## 📬 Let's Connect
+
+- [LinkedIn][(Your LinkedIn Profile Link)](https://www.linkedin.com/in/mehersaipreetam/)
+
+Feel free to connect or explore my repositories! 🌟
+
+✉️ **Email:** mehersaipreetam@gmail.com
+
 
 <!--
 **mehersaipreetam/mehersaipreetam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
