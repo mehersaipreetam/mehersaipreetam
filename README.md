@@ -12,7 +12,7 @@ I'm a passionate Data Scientist with expertise in various AI domains. I thrive o
 
 ## 📬 Let's Connect
 
-- [LinkedIn][(Your LinkedIn Profile Link)](https://www.linkedin.com/in/mehersaipreetam/)
+- [LinkedIn][(https://www.linkedin.com/in/mehersaipreetam/)]
 
 Feel free to connect or explore my repositories! 🌟
 
