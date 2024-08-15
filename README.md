@@ -1,12 +1,13 @@
 ### Hi there, I'm Meher Sai Preetam Madiraju 👋
 
-I'm a passionate Data Scientist with expertise in various AI domains. I thrive on turning complex data into actionable insights and impactful solutions.
+I'm a passionate Data Scientist with a strong foundation in AI, specializing in Generative AI, Natural Language Processing (NLP), and various other domains. I thrive on transforming complex data into actionable insights and crafting impactful solutions that drive innovation. My expertise spans across data science, machine learning, and big data technologies, allowing me to tackle diverse challenges with a focus on delivering real-world value.
 
 ## 🔧 Technologies & Tools
 
 - **Languages:** Python
 - **Frameworks:** FastAPI, Flask
-- **Data Science:** NumPy, Pandas, SciPy, TensorFlow, PyTorch, Scikit-Learn
+- **Data Science & Machine Learning:** NumPy, Pandas, SciPy, TensorFlow, PyTorch, scikit-learn
+- **Generative AI & NLP:** LangChain, LlamaIndex, NLTK, spaCy
 - **Big Data:** PySpark, Dask
 - **Version Control:** Git
 
