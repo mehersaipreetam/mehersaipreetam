@@ -7,7 +7,7 @@ I'm a passionate Data Scientist with a strong foundation in AI, specializing in 
 - **Languages:** Python
 - **Frameworks:** FastAPI, Flask
 - **Data Science & Machine Learning:** NumPy, Pandas, SciPy, TensorFlow, PyTorch, scikit-learn
-- **Generative AI & NLP:** LangChain, LlamaIndex, NLTK, spaCy
+- **Generative AI & NLP:** LangChain, LlamaIndex, LangGraph, NLTK, spaCy
 - **Big Data:** PySpark, Dask
 - **Version Control:** Git
 
